@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">loginapp</string>
+    <string name="sing_in">Sing in</string>
+    <string name="forget_password">forget password ?</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="hi">Hi</string>
+    <string name="gmail">email</string>
+</resources>
